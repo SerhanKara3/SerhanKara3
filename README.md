@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Serhan 👋
 
-<!--
-**SerhanKara3/SerhanKara3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-focused Python developer with a strong foundation in mathematics, building and experimenting with modern LLM-based systems.
 
-Here are some ideas to get you started:
+I work on designing and implementing:
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agent-based workflows with LangGraph
+- Conversational memory architectures
+- LLM orchestration and tool integration
+- Applied machine learning models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m particularly interested in the system design side of AI — how models interact with memory, tools, retrievers, and structured workflows in production-like environments.
+
+Rather than only calling APIs, I focus on understanding:
+- Context management strategies
+- State handling in agent systems
+- Prompt + retrieval optimization
+- Evaluation and failure modes in LLM applications
